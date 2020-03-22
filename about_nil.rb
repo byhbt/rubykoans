@@ -32,7 +32,10 @@ class AboutNil < Neo::Koan
     #    obj.nil?
     # or
     #    obj == nil
+    #
     # Why?
+    # We should use obj.nil? 
+    # Because it's object oriented style.
   end
 
   # LESSON:
